@@ -12,4 +12,4 @@ model.fit(X, y)
 
 # Predict the value for input 5
 predicted = model.predict([[5]])
-print("Predicted number for 5 is:", predicted[0])
+print("Prediction for input 5 is:", predicted[0])
